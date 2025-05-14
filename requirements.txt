@@ -1,0 +1,7 @@
+numpy
+gymnasium
+imageio
+ipython
+gymnasium[toy-text]
+gym-anytrading 
+stable-baselines3
